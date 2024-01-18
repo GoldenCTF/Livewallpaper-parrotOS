@@ -1,0 +1,2 @@
+#!/bin/bash
+xwinwrap -ov -g 1920x1080 -- mpv -wid WID --loop --no-audio /home/golden/downloads/LiveBackground/wallpapers/anime.mp4 --no-stop-screensaver --panscan=1.0 --no-osc --no-osd-bar --no-input-default-bindings
