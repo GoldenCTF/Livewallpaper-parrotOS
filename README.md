@@ -2,6 +2,9 @@
 
 This guide provides detailed instructions on setting up a live wallpaper on Parrot OS using `xwinwrap` and `mpv`. It also includes scripts for easily changing the live wallpaper.
 
+![Live Wallpaper in action](livewall-demo.gif)
+
+
 ## Prerequisites
 
 Ensure you have Parrot OS installed and have a basic understanding of the command line.
